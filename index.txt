@@ -1,0 +1,4 @@
+Q1. What is Java?
+Java is an object-oriented programming language.
+Q2. What is JVM
+JVM means Java Virtual MAchine
